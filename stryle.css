@@ -1,0 +1,39 @@
+body{
+    margin: 10px 10px;
+    width: 100%;
+    margin-left: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+h1{
+    font-size: 60px;
+}
+span{
+    color: cornflowerblue;
+}
+#ver-line{
+    border-left: 5px solid;
+    border-color: darkturquoise;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(rgb(190, 228, 190), rgb(144, 248, 248));
+    color: rgb(132, 46, 202);
+    padding: 10px 20px;
+}
+.half-width img{
+    width: 70%;
+}
+.flex-container{
+    display: flex;
+}
+.first-para{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 5%;
+    width: 40%;
+}
+section{
+    height: 100px;
+    padding-bottom: 200px;
+}
