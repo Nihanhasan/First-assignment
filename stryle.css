@@ -1,4 +1,4 @@
-body{
+.full-body{
     margin: 10px 10px;
     width: 90%;
     margin-left: 10%;
@@ -9,7 +9,7 @@ h1{
     font-size: 50px;
 }
 span{
-    color: cornflowerblue;
+    color: rgba(65, 35, 175, 0.925);
 }
 #ver-line{
     border-left: 5px solid;
@@ -17,7 +17,7 @@ span{
 }
 .anchor-button{
     text-decoration: none;
-    background: linear-gradient(rgb(190, 228, 190), rgb(144, 248, 248));
+    background: linear-gradient(rgb(190, 228, 190), rgba(231, 228, 20, 0.493));
     color: rgb(132, 46, 202);
     padding: 10px 20px;
 }
@@ -51,17 +51,17 @@ section{
     padding-left: 1%;
 }
 #mission{
-    background-color: darksalmon;
+    background-color: rgb(2, 207, 173);
     border-radius: 10%;
     text-align: left;
 }
 #vission{
-    background-color: darkseagreen;
+    background-color: rgb(80, 231, 80);
     border-radius: 10%;
     text-align: left;
 }
 #goals{
-    background-color: rgb(241, 232, 143);
+    background-color: rgb(190, 112, 221);
     border-radius: 10%;
     text-align: left;
 }
@@ -97,10 +97,7 @@ section{
 .final-title{
     font-style: italic;
 }
-.last-div{
+.final-para{
+    background-color: grey;
     width: 100%;
-    background-size: cover;
-    background: rgb(199, 238, 121);
-    padding-bottom: 0%;
-    margin-bottom: 0%
 }
