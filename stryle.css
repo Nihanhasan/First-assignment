@@ -1,12 +1,12 @@
 body{
     margin: 10px 10px;
-    width: 100%;
+    width: 90%;
     margin-left: 10%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: justify;
 }
 h1{
-    font-size: 60px;
+    font-size: 50px;
 }
 span{
     color: cornflowerblue;
@@ -22,7 +22,7 @@ span{
     padding: 10px 20px;
 }
 .half-width img{
-    width: 70%;
+    width: 80%;
 }
 .flex-container{
     display: flex;
@@ -36,4 +36,71 @@ span{
 section{
     height: 100px;
     padding-bottom: 200px;
+    margin-bottom: 200px;
+}
+.text-mid{
+    text-align: center;
+}
+.sec-pic img{
+    width: 50%;
+}
+.mis-vi-go{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 1%;
+    padding-left: 1%;
+}
+#mission{
+    background-color: darksalmon;
+    border-radius: 10%;
+    text-align: left;
+}
+#vission{
+    background-color: darkseagreen;
+    border-radius: 10%;
+    text-align: left;
+}
+#goals{
+    background-color: rgb(241, 232, 143);
+    border-radius: 10%;
+    text-align: left;
+}
+.title{
+    font-size: xx-large;
+}
+.second-para{
+    padding-left: 5%;
+    width: 60%; 
+}
+.third-para{
+    padding-right: 15%;
+    text-align: justify;
+}
+.fourth-para{
+    margin-right: 10%;
+}
+.fourth-pic img{
+    width: 90%;
+}
+.last-pic img{
+    width: 80%;
+}
+.last-para{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 1%;
+    width: 900%;
+} 
+.final-para{
+    text-align: center;
+}
+.final-title{
+    font-style: italic;
+}
+.last-div{
+    width: 100%;
+    background-size: cover;
+    background: rgb(199, 238, 121);
+    padding-bottom: 0%;
+    margin-bottom: 0%
 }
